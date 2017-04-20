@@ -4174,7 +4174,7 @@ input.toggle-round-flat:checked + label:after {
 }
 
 .footer.f2 .footer-links {
-    text-align: right;
+    /*text-align: right;*/
 }
 
 .footer.f2 .footer-links li>a, 
